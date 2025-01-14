@@ -1,6 +1,6 @@
 # Importing Necessary Libraries
 import math
-from turtle import *
+from turtle import* 
 
 # Defining the Heart Shape Functions
 def heart(k):
@@ -13,7 +13,7 @@ def heart1(k):
         math.cos(4*k)
 
 # Turtle Setup
-speed(1000)
+speed(0)
 bgcolor("black")
 
 # Drawing the Heart
